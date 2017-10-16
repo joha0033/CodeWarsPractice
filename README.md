@@ -10,4 +10,4 @@
 
   * Pyramid_Slide_Down Completed 10/13/17 (that was something... )
 
-    _refactoring to Higher Order Functions ~ end of week 10/16
+  * A_Chain_Adding_Function (variadic function! also, played around with curried functions)

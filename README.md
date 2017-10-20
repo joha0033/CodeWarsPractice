@@ -11,3 +11,5 @@
   * Pyramid_Slide_Down Completed 10/13/17 (that was something... )
 
   * A_Chain_Adding_Function (variadic function! also, played around with curried functions)
+
+  * Format_to_String_of_Names 10/20 

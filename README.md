@@ -8,8 +8,12 @@
 
   * Is_My_Friend_Cheating? Completed 10/11/17
 
-  * Pyramid_Slide_Down Completed 10/13/17 (that was something... )
+  * Pyramid_Slide_Down Completed 10/13/17
 
   * A_Chain_Adding_Function (variadic function! also, played around with curried functions)
 
-  * Format_to_String_of_Names 10/20 
+    ---took a break for job prospect---
+
+  * Format_to_String_of_Names 10/20/17
+
+  * Scramblies 10/26/17

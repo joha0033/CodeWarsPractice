@@ -17,3 +17,5 @@
   * Format_to_String_of_Names 10/20/17
 
   * Scramblies 10/26/17
+
+  * findUniq 12/7... time off for straight up studying
